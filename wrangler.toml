@@ -1,0 +1,6 @@
+name = "saju"
+compatibility_date = "2026-06-01"
+
+# 정적 파일(HTML/CSS/JS)이 들어있는 폴더. Workers Builds가 이 폴더를 서빙합니다.
+[assets]
+directory = "./dist"
